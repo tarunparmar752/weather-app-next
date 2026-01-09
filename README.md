@@ -7,7 +7,6 @@ A modern, responsive weather forecasting application built with Next.js, React, 
 | Feature | Screenshot |
 |---------|-----------|
 | **Home Page** | ![Home Page](./screenshots/home.png) |
-| **Weather Card** | ![Weather Card](./screenshots/weather-card.png) |
 | **Forecast** | ![Forecast](./screenshots/forecast.png) |
 | **Cities Table** | ![Cities Table](./screenshots/cities-table.png) |
 
