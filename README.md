@@ -1,15 +1,15 @@
 # Weather Forecasting Web Application
 
-A modern, responsive weather forecasting application built with Next.js, React, TypeScript, and Tailwind CSS. Fetches real-time weather data from OpenWeatherMap API with features like dark mode, temperature unit toggle, geolocation support, and a 5-day forecast.
+A modern, responsive weather forecasting application built with Next.js, React, TypeScript, and Tailwind CSS. Fetches real-time weather data from OpenWeatherMap API with features like temperature unit toggle, geolocation support, and a 5-day forecast.
 
 ## 📸 UI Screenshots
 
 | Feature | Screenshot |
 |---------|-----------|
-| **Home Page - Light** | ![Home Page Light](./screenshots/home-light.png) |
-| **Weather Card - Light** | ![Weather Card Light](./screenshots/weather-card-light.png) |
-| **Forecast - Light** | ![Forecast Light](./screenshots/forecast-light.png) |
-| **Cities Table - Light** | ![Cities Table Light](./screenshots/cities-table-light.png) |
+| **Home Page** | ![Home Page](./screenshots/home.png) |
+| **Weather Card** | ![Weather Card](./screenshots/weather-card.png) |
+| **Forecast** | ![Forecast](./screenshots/forecast.png) |
+| **Cities Table** | ![Cities Table](./screenshots/cities-table.png) |
 
 ### Mobile Responsive
 | Device | Screenshot |
@@ -25,7 +25,6 @@ A modern, responsive weather forecasting application built with Next.js, React, 
 - ✅ **City Search** - Search for any city worldwide
 - ✅ **Auto-Geolocation** - Automatically detects your location and shows weather
 - ✅ **25-City Weather Table** - Display weather data for 25 major cities with pagination
-- ✅ **Dark Mode Toggle** - Switch between light and dark themes with smooth transitions
 - ✅ **Temperature Unit Toggle** - Switch between Celsius and Fahrenheit
 - ✅ **Wind Speed Conversion** - Automatically converts between km/h and mph
 
